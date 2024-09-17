@@ -78,6 +78,6 @@ public class Paciente {
 
     @Override
     public String toString() {
-        return this.getNombre()+" "+this.getApellido()+" "+this.getEdad();
+        return this.getNombre() + " " + this.getApellido() + " " + this.getEdad();
     }
 }
